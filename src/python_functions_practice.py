@@ -10,3 +10,8 @@ def add(number_1, number_2):
 def subtract(number_1, number_2):
     total = number_1 - number_2
     return total
+
+#test3
+def multiply(number_1, number_2):
+    total = number_1 * number_2
+    return total
