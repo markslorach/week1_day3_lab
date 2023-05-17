@@ -56,5 +56,9 @@ def number_to_short_month_name(month_int):
     month_name = short_month.get(month_int)
     return month_name
 
+#extention1
+def side_of_cube(side):
+    volume = side ** 3
+    return volume
 
    
