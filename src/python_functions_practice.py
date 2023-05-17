@@ -26,7 +26,13 @@ def length_of_string(string):
     length_int = len(string)
     return length_int
 
+#test6
 def join_string(string1, string2):
     joined = string1 + string2
     return joined
+
+#test7
+def add_string_as_number(num1, num2):
+    total = int(num1) + int(num2)
+    return total
 
