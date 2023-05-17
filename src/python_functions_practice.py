@@ -36,7 +36,7 @@ def add_string_as_number(num1, num2):
     total = int(num1) + int(num2)
     return total
 
-#test 8
+#test 8 - 9 - 10
 def number_to_full_month_name(month_int):
     month = {
         1: "January",
