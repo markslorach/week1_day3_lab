@@ -61,4 +61,9 @@ def side_of_cube(side):
     volume = side ** 3
     return volume
 
+#extention2
+def reverse_string(string):
+    reverse = reverse_string.reverse(string)
+    return reverse
+
    
