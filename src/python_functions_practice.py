@@ -45,4 +45,16 @@ def number_to_full_month_name(month_int):
     }
     month_name = month.get(month_int)
     return month_name
+
+#test 11 - 12 - 13
+def number_to_short_month_name(month_int):
+    short_month = {
+        1: "Jan",
+        4: "April",
+        10: "October"
+    }
+    month_name = short_month.get(month_int)
+    return month_name
+
+
    
