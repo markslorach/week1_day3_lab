@@ -50,8 +50,8 @@ def number_to_full_month_name(month_int):
 def number_to_short_month_name(month_int):
     short_month = {
         1: "Jan",
-        4: "April",
-        10: "October"
+        4: "Apr",
+        10: "Oct"
     }
     month_name = short_month.get(month_int)
     return month_name
