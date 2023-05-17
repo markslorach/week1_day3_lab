@@ -20,3 +20,8 @@ def multiply(number_1, number_2):
 def divide(number_1, number_2):
     total = number_1 / number_2
     return total
+
+#test5
+def length_of_string(string):
+    length_int = len(string)
+    return length_int
